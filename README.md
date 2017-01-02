@@ -11,4 +11,5 @@ https://en.wikipedia.org/wiki/Quoridor
 
 ## Authors
 original back-end : https://github.com/tetrapus/Quoridor
+
 This is a modified version that adds an user interface.
