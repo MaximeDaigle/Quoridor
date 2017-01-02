@@ -17,3 +17,8 @@ https://en.wikipedia.org/wiki/Quoridor
 original : https://github.com/tetrapus/Quoridor
 
 This is a modified version that adds an user interface.
+
+##How to use
+java quoridor.Quoridor (number of player)
+
+number of player: 2 or 4
